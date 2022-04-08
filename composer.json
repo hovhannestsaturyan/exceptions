@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Brooklyn\\Exception\\": "src/"
+            "Brooklyn\\Exceptions\\": "src/"
         }
     },
     "require": {
