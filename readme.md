@@ -1,4 +1,4 @@
-<h1 align="center">hovhannestsaturyan/exceptions</h1>
+<h1 align="center">brooklyn/exceptions</h1>
 
 <p align="center">
     <strong>A very handy universal exception to help you use it more easily</strong>
