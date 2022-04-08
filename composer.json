@@ -1,0 +1,22 @@
+{
+    "name": "brooklyn/exceptions",
+    "description": "Universal exception",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brooklyn",
+            "email": "tsaturyan.job@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Brooklyn\\Exception\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
