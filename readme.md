@@ -20,7 +20,7 @@ hovhannestsaturyan/exceptions is a small package that will help you to work with
 Install this package as a dependency using [Composer](https://getcomposer.org).
 
 ``` bash
-composer require hovhannestsaturyan/exceptions
+composer require brooklyn/exceptions
 ```
 
 ## Usage
